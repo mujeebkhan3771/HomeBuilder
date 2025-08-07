@@ -1,12 +1,27 @@
-# React + Vite
+#  HomeBuilder - Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **HomeBuilder**, a modern and responsive real estate website built to showcase properties for sale or rent. It offers users a seamless browsing experience with features like property listings, detailed views, search filters, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Demo
 
-## Expanding the ESLint configuration
+ [Click here to visit the deployed website](https://mujeebkhan3771.github.io/HomeBuilder/)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** React , TailwindCSS    
+- **Deployment:** GitHub Pages 
+---
+
+##  Features
+
+-  High-quality property images
+-  Contact or inquiry forms
+-  Fully responsive design
+-  Fast and user-friendly UI
+
+---
