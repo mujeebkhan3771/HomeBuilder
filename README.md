@@ -1,6 +1,6 @@
 # 🏡 HomeBuilder - Real Estate Website
 
-Welcome to **HomeBuilder**, a modern and responsive real estate website built to showcase properties for sale or rent. It offers users a seamless browsing experience with features like property listings, detailed views, search filters, and more.
+**HomeBuilder** is a professional marketing website built for a home construction or real estate development company. It showcases the company’s services, highlights completed projects, features client testimonials, and includes a working contact form for customer inquiries.
 
 ---
 
